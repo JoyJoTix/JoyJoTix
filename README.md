@@ -3,6 +3,7 @@ My interests lie in the development of DIY electronic devices.
 At this point (I'm 33 years old) I've started learning Java. This is my cardinal estimate of the profession. While I am engaged in self-education in this direction.
 
 /*
+
 Start self-study 08.08.2022.
 ____________________________________________________________________
 
@@ -37,6 +38,7 @@ _____________________________________________________________________
 
 The beginning of the study and consciousness of the first application according to the tutorial
 https://javarush.ru/groups/posts/2935-java-proekt-ot-a-do-ja-pishem-realjhnihy-proekt-dlja-portfolio - 14.10.2022.
+
 */
 
 I would like to get into a team or partner for experienced developers to improve my skills and immerse myself more in the topic of development.
