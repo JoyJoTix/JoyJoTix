@@ -33,6 +33,10 @@ _____________________________________________________________________
 
 Training on https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/ -23.09.2022г. 72 lessons.
 Completion of courses on - 12.10.2022.
+_____________________________________________________________________
+
+The beginning of the study and consciousness of the first application according to the tutorial
+https://javarush.ru/groups/posts/2935-java-proekt-ot-a-do-ja-pishem-realjhnihy-proekt-dlja-portfolio - 14.10.2022.
 */
 
 I would like to get into a team or partner for experienced developers to improve my skills and immerse myself more in the topic of development.
